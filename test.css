@@ -1,0 +1,58 @@
+
+.firsttext{
+    color:darkgreen ;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.secondtext{
+    font-size: 22.5px;
+    color: green;
+    font-weight: bold;
+}
+.thirdtext{
+color: rgb(255, 208, 0);
+font-weight: bold;
+padding: 100px;
+}
+.mainbox{
+    background-color: rgb(249, 248, 189);
+}
+.color{
+    color: aquamarine;
+}
+.class{
+    color: aquamarine;
+}
+.lead{
+    color: darkgray ;
+}
+.para{
+    color: darkgray;
+}
+.button{
+    border: 1px;
+    background-color: white ;
+    
+}
+.display{
+    display: flex;
+}
+.top{
+    margin-left: 50px;
+    font-weight: bold;
+}
+.courses{
+margin-left: 50px;
+font-weight: bold;
+font-size: 45px;
+margin-top: 0px;
+}
+.paragraph{
+    margin-left: 120px;
+    margin-top: 5px;
+    color: gray;
+    font-weight: bold;
+}
+.btn{
+    margin-left: 110px;
+}
